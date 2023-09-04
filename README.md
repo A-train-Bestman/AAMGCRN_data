@@ -1,2 +1,2 @@
 ## AAMGCRN_data
-# This is a dataset of the paper on air quality prediction in graph convolutional cyclic networks based on adaptive adjacency matrix
+# This is a dataset of the paper on An Adaptive Adjacency Matrix-Based Graph Convolutional Recurrent Network for Air Quality Prediction
